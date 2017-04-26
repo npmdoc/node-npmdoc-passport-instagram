@@ -1,4 +1,7 @@
-# api documentation for  [passport-instagram (v1.0.0)](https://github.com/jaredhanson/passport-instagram)  [![npm package](https://img.shields.io/npm/v/npmdoc-passport-instagram.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-passport-instagram) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-passport-instagram.svg)](https://travis-ci.org/npmdoc/node-npmdoc-passport-instagram)
+# npmdoc-passport-instagram
+
+#### basic api documentation for  [passport-instagram (v1.0.0)](https://github.com/jaredhanson/passport-instagram)  [![npm package](https://img.shields.io/npm/v/npmdoc-passport-instagram.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-passport-instagram) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-passport-instagram.svg)](https://travis-ci.org/npmdoc/node-npmdoc-passport-instagram)
+
 #### Instagram authentication strategy for Passport.
 
 [![NPM](https://nodei.co/npm/passport-instagram.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/passport-instagram)
@@ -71,7 +74,8 @@
     "scripts": {
         "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
